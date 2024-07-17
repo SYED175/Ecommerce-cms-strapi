@@ -1,0 +1,19 @@
+{
+  "kind": "singleType",
+  "collectionName": "filters",
+  "info": {
+    "singularName": "filter",
+    "pluralName": "filters",
+    "displayName": "Filter",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "filterBtn": {
+      "type": "string"
+    }
+  }
+}

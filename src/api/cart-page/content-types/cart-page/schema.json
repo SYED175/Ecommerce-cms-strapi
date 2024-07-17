@@ -1,0 +1,31 @@
+{
+  "kind": "singleType",
+  "collectionName": "cart_pages",
+  "info": {
+    "singularName": "cart-page",
+    "pluralName": "cart-pages",
+    "displayName": "CartPage",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "shoppingCart": {
+      "type": "string"
+    },
+    "emptyCart": {
+      "type": "string"
+    },
+    "totalPrice": {
+      "type": "string"
+    },
+    "alerts": {
+      "type": "string"
+    },
+    "proceedToPayBtn": {
+      "type": "string"
+    }
+  }
+}
